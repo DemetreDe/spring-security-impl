@@ -1,4 +1,4 @@
-package com.demetre.security.user;
+package com.product.sheet.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

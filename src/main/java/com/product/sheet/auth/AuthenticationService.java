@@ -1,9 +1,9 @@
-package com.demetre.security.auth;
+package com.product.sheet.auth;
 
-import com.demetre.security.config.JwtService;
-import com.demetre.security.user.Role;
-import com.demetre.security.user.User;
-import com.demetre.security.user.UserRepository;
+import com.product.sheet.config.JwtService;
+import com.product.sheet.user.Role;
+import com.product.sheet.user.User;
+import com.product.sheet.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

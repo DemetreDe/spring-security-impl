@@ -1,6 +1,6 @@
-package com.demetre.security.config;
+package com.product.sheet.config;
 
-import com.demetre.security.user.UserRepository;
+import com.product.sheet.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 
 import org.springframework.context.annotation.Bean;
